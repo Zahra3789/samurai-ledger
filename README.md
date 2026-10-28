@@ -1,0 +1,1 @@
+Samurai Ledger (web) - the ACCA FA study game in the browser. Open https://zahra3789.github.io/samurai-ledger/ . Progress saves in the browser; use Backup / Restore on Home to move it between devices or the phone app.
